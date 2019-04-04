@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Lora');
+
+*{
+    font-family: font-family: 'EB Garamond', serif;
+    margin:0;
+    padding: 0;
+    background-color: beige;
+}
+h1{
+    margin:40px;
+}
+
+#userinput{
+    width:350px;
+    height: 35px;
+    display: inline-block;
+}
+
+.btn{
+    margin: 20px 5px;
+
+}
+
+.form-control{
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+}
